@@ -6,7 +6,7 @@
 
 //variable defining section:
 
-int stepsToBlendBy = 5;
+static int stepsToBlendBy = 5;
 //servo 1 setup
 Servo servo1;
 int position1Forward = 0;
